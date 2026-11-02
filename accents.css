@@ -1,0 +1,19 @@
+/* MUM — warm graphic accents, preserving existing photography. */
+body.mum .hero-band{position:relative;border-bottom:8px solid #d9ad58}
+body.mum .hero .eyebrow{display:inline-flex;align-items:center;gap:12px}
+body.mum .hero .eyebrow:before{content:"";width:10px;height:10px;background:#e8bd70;border-radius:50%;box-shadow:0 0 0 5px #ffffff12}
+body.mum .hero h1 em{text-decoration:underline;text-decoration-color:#d9ad58;text-decoration-thickness:3px;text-underline-offset:10px}
+body.mum .hero-photo{box-shadow:12px 12px 0 #c87958}
+body.mum .hero .daily-lunch{background:#e8bd70;color:#38271f;border-color:#e8bd70;box-shadow:0 4px 0 #71311f;transition:transform .2s,background .2s}
+body.mum .hero .daily-lunch:hover{background:#f5d598;transform:translateY(-2px)}
+body.mum .feature-occasion{background:#fbf1e9;color:#4b332c;position:relative}
+body.mum .feature-occasion .eyebrow{color:#9e432e;display:flex;align-items:center;gap:14px}
+body.mum .feature-occasion .eyebrow:before{content:"";display:block;width:38px;height:3px;background:#9e432e}
+body.mum .feature-occasion h2{max-width:430px}
+body.mum .feature-occasion .text-link{border:1px solid #9e432e;border-radius:50px;padding:12px 20px;color:#9e432e}
+body.mum .gallery{border-top:1px solid #9e432e30}
+body.mum .gallery .section-heading h2{display:inline-block;border-bottom:4px solid #9e432e;padding-bottom:8px}
+body.mum .gallery .controls button{background:#9e432e;color:#fbf1e9;border-color:#9e432e}
+body.mum .contact{border-top:7px solid #d9ad58}
+@media(max-width:760px){body.mum .hero-photo{box-shadow:6px 6px 0 #c87958}body.mum .hero h1 em{text-underline-offset:6px;text-decoration-thickness:2px}body.mum .hero-band{border-bottom-width:5px}}
+@media(prefers-reduced-motion:reduce){body.mum .hero .daily-lunch{transition:none}}

@@ -1,0 +1,404 @@
+{
+  "checked": "2026-10-30",
+  "sources": [
+    "https://www.meniu.lt/vieta/restoranelis-mum",
+    "https://www.findglocal.com/LT/Vilnius/819241458196470/Restoran%C4%97lis-MUM",
+    "https://www.facebook.com/restoranelis.mum/photos"
+  ],
+  "photos": [
+    {
+      "file": "assets/hero.webp",
+      "name": "Cepelinai su padažu",
+      "url": "https://static.meniu.lt/uploads/restaurant/photo/15/8014/48e6be6b85caee5a5897ea75985813372fd2b0cc.jpeg",
+      "page": "https://www.meniu.lt/vieta/restoranelis-mum",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "file": "assets/food-01.webp",
+      "name": "Kijevo kotletas su bulvytėmis ir salotomis",
+      "url": "https://static.meniu.lt/uploads/restaurant/photo/15/33752/df6aad28aaab0da1adde45d1a9ee5028b945c45f.jpeg",
+      "page": "https://www.meniu.lt/vieta/restoranelis-mum",
+      "width": 1908,
+      "height": 1813
+    },
+    {
+      "file": "assets/food-02.webp",
+      "name": "Troškinys su ryžiais ir daržovėmis",
+      "url": "https://static.meniu.lt/uploads/restaurant/photo/15/8015/c3da0474565a393158d5fa2a5c9f536d21099ecd.jpeg",
+      "page": "https://www.meniu.lt/vieta/restoranelis-mum",
+      "width": 1908,
+      "height": 1692
+    },
+    {
+      "file": "assets/food-03.webp",
+      "name": "Keptas patiekalas su sūriu ir daržovėmis",
+      "url": "https://img05.restaurantguru.com/r7ae-food-Restoranelis-MUM.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 705,
+      "height": 952
+    },
+    {
+      "file": "assets/food-04.webp",
+      "name": "Patiekalas su padažu",
+      "url": "https://img05.restaurantguru.com/rfcb-Restoranelis-MUM-dessert.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 463,
+      "height": 794
+    },
+    {
+      "file": "assets/food-05.webp",
+      "name": "Pietų lėkštė su bulvėmis ir salotomis",
+      "url": "https://img05.restaurantguru.com/rcbc-Restoranelis-MUM-meals-2022-11-2.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "file": "assets/food-06.webp",
+      "name": "Įdarytas kepsnys su padažu",
+      "url": "https://img05.restaurantguru.com/r417-Restoranelis-MUM-meals-2021-09.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 716,
+      "height": 813
+    },
+    {
+      "file": "assets/food-07.webp",
+      "name": "Karbonadas su bulvytėmis",
+      "url": "https://img05.restaurantguru.com/rb1b-Restoranelis-MUM-fries.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 811,
+      "height": 960
+    },
+    {
+      "file": "assets/food-08.webp",
+      "name": "Kijevo kotletas su bulvytėmis",
+      "url": "https://img05.restaurantguru.com/r716-Restoranelis-MUM-dishes-2021-09.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 716,
+      "height": 853
+    },
+    {
+      "file": "assets/food-09.webp",
+      "name": "Patiekalas su kreminiu padažu",
+      "url": "https://img05.restaurantguru.com/r59b-Restoranelis-MUM-dishes.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 681,
+      "height": 814
+    },
+    {
+      "file": "assets/food-10.webp",
+      "name": "Kijevo kotletas su salotomis",
+      "url": "https://img05.restaurantguru.com/re01-Restoranelis-MUM-dishes-2022-11-1.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 945,
+      "height": 1680
+    },
+    {
+      "file": "assets/food-11.webp",
+      "name": "Kepta žuvis su bulvytėmis",
+      "url": "https://img05.restaurantguru.com/r7e8-Restoranelis-MUM-food-2021-09.jpg",
+      "page": "https://fr.restaurantguru.com/MUM-Food-and-Coffee-Vilnius",
+      "width": 707,
+      "height": 878
+    },
+    {
+      "file": "assets/facebook-menu-01.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1774554294670985",
+      "display_crop": [
+        0.5443037974683544,
+        0.5315315315315315,
+        0.830379746835443,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-02.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1773284194797995",
+      "display_crop": [
+        0.5518987341772152,
+        0.5135135135135135,
+        0.8075949367088607,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-04.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1772032701589811",
+      "display_crop": [
+        0.5215189873417722,
+        0.4774774774774775,
+        0.7848101265822784,
+        0.963963963963964
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-05.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1770632371729844",
+      "display_crop": [
+        0.5645569620253165,
+        0.5405405405405406,
+        0.9443037974683545,
+        0.972972972972973
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-06.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1769464855179929",
+      "display_crop": [
+        0.5443037974683544,
+        0.5225225225225225,
+        0.8025316455696202,
+        0.954954954954955
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-07.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1766132192179862",
+      "display_crop": [
+        0.589873417721519,
+        0.5900900900900901,
+        0.9240506329113924,
+        0.972972972972973
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-08.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1765068258952922",
+      "display_crop": [
+        0.5848101265822785,
+        0.5,
+        0.9746835443037974,
+        0.972972972972973
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-09.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1763961255730289",
+      "display_crop": [
+        0.5594936708860759,
+        0.481981981981982,
+        0.9873417721518988,
+        0.972972972972973
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-10.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1762886445837770",
+      "display_crop": [
+        0.549367088607595,
+        0.4864864864864865,
+        0.9772151898734177,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-11.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1761767989282949",
+      "display_crop": [
+        0.5417721518987342,
+        0.5495495495495496,
+        0.7645569620253164,
+        0.9684684684684685
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-12.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1758496389610109",
+      "display_crop": [
+        0.5316455696202531,
+        0.3783783783783784,
+        0.7417721518987341,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-13.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1757377303055351",
+      "display_crop": [
+        0.5544303797468354,
+        0.5,
+        0.9569620253164557,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-14.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1756233733169708",
+      "display_crop": [
+        0.5518987341772152,
+        0.4864864864864865,
+        0.9746835443037974,
+        0.9684684684684685
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-15.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1755073379952410",
+      "display_crop": [
+        0.5848101265822785,
+        0.4954954954954955,
+        0.9544303797468354,
+        0.9684684684684685
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-16.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1753900496736365",
+      "display_crop": [
+        0.5670886075949367,
+        0.5540540540540541,
+        0.9392405063291139,
+        0.9684684684684685
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-17.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1750604953732586",
+      "display_crop": [
+        0.5848101265822785,
+        0.481981981981982,
+        0.8632911392405064,
+        0.9684684684684685
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-18.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1749508987175516",
+      "display_crop": [
+        0.5468354430379747,
+        0.4864864864864865,
+        0.8202531645569621,
+        0.9684684684684685
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-19.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1748450320614716",
+      "display_crop": [
+        0.5240506329113924,
+        0.5540540540540541,
+        0.8987341772151899,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-20.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1747363157390099",
+      "display_crop": [
+        0.5417721518987342,
+        0.42342342342342343,
+        0.7873417721518987,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-21.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1746242057502209",
+      "display_crop": [
+        0.5645569620253165,
+        0.4369369369369369,
+        0.9493670886075949,
+        0.9234234234234234
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-23.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1741709827955432",
+      "display_crop": [
+        0.6075949367088608,
+        0.44144144144144143,
+        0.8936708860759494,
+        0.9504504504504504
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-24.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1740572804735801",
+      "display_crop": [
+        0.5367088607594936,
+        0.47297297297297297,
+        0.7645569620253164,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-25.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1739420911517657",
+      "display_crop": [
+        0.5443037974683544,
+        0.509009009009009,
+        0.7974683544303798,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-27.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1734872038639211",
+      "display_crop": [
+        0.549367088607595,
+        0.5045045045045045,
+        0.9670886075949368,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-28.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1733687355424346",
+      "display_crop": [
+        0.5544303797468354,
+        0.4954954954954955,
+        0.9746835443037974,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-30.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1731584438967971",
+      "display_crop": [
+        0.5443037974683544,
+        0.4954954954954955,
+        0.9620253164556962,
+        0.9774774774774775
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    },
+    {
+      "file": "assets/facebook-menu-32.jpg",
+      "page": "https://www.facebook.com/photo/?fbid=1726998376093244",
+      "display_crop": [
+        0.4759493670886076,
+        0.481981981981982,
+        0.7746835443037975,
+        0.963963963963964
+      ],
+      "note": "Original menu image; CSS displays food photo only."
+    }
+  ],
+  "note": "Reviewed 32 public Facebook daily menu cards (18 September–30 October 2026); added 27 distinct food photographs, omitting 5 repeated images. Existing gallery retained. Original menu image pixels are preserved; display clipping hides menu text."
+}

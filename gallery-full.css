@@ -1,0 +1,4 @@
+/* Full photo visible: preserve original food framing in every gallery. */
+body[data-theme] .gallery .photo{background:var(--paper);padding:0;display:flex;align-items:center;justify-content:center}
+body[data-theme] .gallery .photo>img{width:100%;height:100%;object-fit:contain;object-position:center;transform:none!important}
+body[data-theme] .gallery .photo:hover>img{transform:none!important}
